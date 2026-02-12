@@ -83,7 +83,7 @@ Spotify Wrapped-style storytelling with:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/steam-shame-recap.git
+git clone https://github.com/AhmetFarukDemir/steam-shame-recap.git
 cd steam-shame-recap
 ```
 
