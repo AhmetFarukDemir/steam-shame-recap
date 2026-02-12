@@ -12,7 +12,7 @@
 
 ## 📸 Demo
 
-![App Screenshot](./screenshot.png)
+![App Screenshot](./screenshots/slide3.png)
 
 > **Live Demo:** _(Coming Soon)_
 
@@ -285,14 +285,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 - Framer Motion for animation inspiration
 - Spotify Wrapped for UI/UX concept
 - Every gamer with a massive backlog 💀
-
----
-
-## 📧 Contact
-
-**Your Name** - [@yourtwitter](https://twitter.com/yourtwitter)
-
-Project Link: [https://github.com/yourusername/steam-shame-recap](https://github.com/yourusername/steam-shame-recap)
 
 ---
 
