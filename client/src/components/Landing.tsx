@@ -146,6 +146,9 @@ export default function Landing({ onSearch }: LandingProps) {
           <p className="text-gray-600 text-xs">
             ⚠️ Your profile must be public!
           </p>
+          <p className="text-gray-600 text-xs">
+           ⚠️ First loading may take a few seconds. Please be patient! 
+          </p>
         </motion.div>
       </motion.div>
     </div>
